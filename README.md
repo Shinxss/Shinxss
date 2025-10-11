@@ -1,6 +1,6 @@
 ## Hi there 👋  
-I’m **Shinxss**, a passionate Full Stack Developer focusing on MERN Stack projects.  
-Welcome to my GitHub profile! 🚀  
+A 3rd year IT student passionate about web and app development.
+I enjoy building full-stack projects and continuously learning new technologies to sharpen my skills.  
 
 ---
 
