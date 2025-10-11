@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀
 
 ### 🧠 Skills & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,php,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,kotlin,react,nodejs,express,mongodb,html,css,git,vscode,figma" />
 </p>
 
 ---
