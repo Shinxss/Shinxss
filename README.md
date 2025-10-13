@@ -15,7 +15,7 @@ I enjoy building full-stack projects and continuously learning new technologies 
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff77ff)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinxss&layout=compact&theme=radical)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=ff6c37) 
 
 ---
 ### 📊 GitHub Stats:
