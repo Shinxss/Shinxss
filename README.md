@@ -2,6 +2,7 @@
 <span style="color:#7f39fb;">
 A 3rd year IT student passionate about web and app development.  
 I enjoy building full-stack projects and continuously learning new technologies to sharpen my skills. </span>
+
 ---
 
 ### 💻 Tech Stack
