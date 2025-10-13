@@ -4,14 +4,15 @@ I enjoy building full-stack projects and continuously learning new technologies 
 
 ---
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinxss&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=Shinxss&theme=radical&hide_border=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinxss&layout=compact&theme=radical)
 
+---
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinxss&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com?user=Shinxss&theme=radical&hide_border=true)
 
 ---
-
 
 ### 🏆 Achievements
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shinxss&theme=onedark&margin-w=15&margin-h=15)
