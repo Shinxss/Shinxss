@@ -13,7 +13,7 @@ I enjoy building full-stack projects and continuously learning new technologies 
 
 ---
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinxss&show_icons=true&title_color=7f39fb&text_color=7f39fb&icon_color=7f39fb&bg_color=0d1117&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=Shinxss&background=0d1117&ring=7f39fb&fire=7f39fb&currStreakLabel=7f39fb&sideLabels=7f39fb&dates=7f39fb&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shinxss&show_icons=true&title_color=7f39fb&text_color=7f39fb&icon_color=7f39fb&bg_color=0d1117&hide_border=true) ![GitHub Streak](https://streak-stats.demolab.com?user=Shinxss&background=0d1117&ring=7f39fb&fire=7f39fb&currStreakLabel=7f39fb&sideLabels=7f39fb&dates=7f39fb&text_color=7f39fb&hide_border=true)
 
 
 ---
