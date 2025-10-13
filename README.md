@@ -4,8 +4,11 @@ I enjoy building full-stack projects and continuously learning new technologies 
 
 ---
 
-
-
+### 💻 Tech Stack
+[JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinxss&layout=compact&theme=radical)
 
 ---
