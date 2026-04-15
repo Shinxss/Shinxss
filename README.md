@@ -1,6 +1,5 @@
 ## About Me
-A 3rd year IT student passionate about web and app development.  
-I enjoy building full-stack projects and continuously learning new technologies to sharpen my skills.
+I like building projects for fun.
 
 ---
 
